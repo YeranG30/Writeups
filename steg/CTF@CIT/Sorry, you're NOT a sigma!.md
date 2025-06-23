@@ -62,3 +62,6 @@ CIT{wh3n_th3_l10n_sp34k5_y0u_l1st3n}
 ```
 CIT{wh3n_th3_l10n_sp34k5_y0u_l1st3n}
 ```
+
+![image](https://github.com/user-attachments/assets/daa1836b-2227-4fca-b665-37a3ed2cbc4e)
+
